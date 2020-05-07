@@ -8,6 +8,7 @@
  - Space: Salto
  - F: Reiniciar el nivel.
  - C: Cambio de personaje.
+ 
  Notas:
  - El numero de saltos es uno.
  - El nivel se reinicia desde el comienzo.
